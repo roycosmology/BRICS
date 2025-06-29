@@ -57,3 +57,6 @@ This project applies machine learning to classify stars based on their physical 
 ![HR Diagram](hr_diagram_example.png) <!-- Optional: Replace with actual plot -->
 
 ---
+## Get started
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roycosmology/BRICS/blob/main/star_classification.ipynb)
