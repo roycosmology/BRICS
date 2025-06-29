@@ -17,7 +17,7 @@ This project applies machine learning to classify stars based on their physical 
 
 ### 🔹 Prediction Dataset: **Gaia DR3**
 - Source: [ESA Gaia Archive](https://gea.esac.esa.int/archive/)
-- A curated Gaia DR3 subset was used with necessary columns like:
+- A curated Gaia DR3 subset was used with the necessary columns like:
   - `RA`, `DEC`, `Plx`, `pmra`, `pmdec`, `B-V`, `Vmag`
 
 ---
@@ -48,7 +48,7 @@ This project applies machine learning to classify stars based on their physical 
 - Creates an **H-R diagram** (Absolute Magnitude vs. B–V Color Index)
 - Uses **Seaborn** to color-code by predicted stellar type
 - Grey background for visual clarity
-- Excludes "Unclassified" stars from final plot
+- Excludes "Unclassified" stars from the final plot
 
 ---
 
@@ -57,9 +57,3 @@ This project applies machine learning to classify stars based on their physical 
 ![HR Diagram](hr_diagram_example.png) <!-- Optional: Replace with actual plot -->
 
 ---
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/your-username/stellar-classification.git
-cd stellar-classification
